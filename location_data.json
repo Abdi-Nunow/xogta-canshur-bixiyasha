@@ -1,0 +1,22 @@
+{
+  "Fafan": {
+    "Jigjiga": ["Kebele 01", "Kebele 02", "Kebele 03"],
+    "Babile": ["Kebele A", "Kebele B", "Kebele C"]
+  },
+  "Sitti": {
+    "Shinile": ["Kebele X", "Kebele Y", "Kebele Z"],
+    "Erer": ["Kebele 3", "Kebele 4", "Kebele 5"]
+  },
+  "Jarar": {
+    "Dhagaxbuur": ["K1", "K2", "K3"],
+    "Birqod": ["K4", "K5", "K6"]
+  },
+  "Nogob": {
+    "Fiiq": ["Kebele Alpha", "Kebele Beta", "Kebele Gamma"],
+    "Hamero": ["Kebele Delta", "Kebele Epsilon", "Kebele Zeta"]
+  },
+  "Liban": {
+    "Gursum": ["Kebele L1", "Kebele L2", "Kebele L3"],
+    "Danan": ["Kebele L4", "Kebele L5", "Kebele L6"]
+  }
+}
